@@ -1,2 +1,3 @@
-# Exploring-Various-ALU-Designs-in-Verilog-Intel-Quartus
-I implemented and tested various ALU designs using Verilog and Intel Quartus, optimizing digital circuit performance and efficiency. This hands-on experience enhanced my skills in hardware description and simulation.
+**Exploring Various ALU Designs in Verilog/Intel Quartus**
+
+In this project, I extensively explored and implemented multiple Arithmetic Logic Unit (ALU) designs using Verilog and Intel Quartus. The focus was on developing and testing a range of ALU architectures capable of performing essential arithmetic and logical operations. By leveraging Verilog for precise hardware description and Intel Quartus for synthesis and simulation, I was able to create and refine ALU designs to achieve optimal performance and efficiency. This process involved analyzing design trade-offs, optimizing circuit layouts, and validating functionality through rigorous testing. The project enhanced my expertise in digital circuit design, enabling me to effectively apply theoretical knowledge to practical hardware implementation and verification.
